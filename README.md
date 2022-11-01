@@ -1,6 +1,6 @@
 # Kaggle
 
-### Sertificates
+### Certificates
 
 ---
 
