@@ -19,7 +19,7 @@
 
 ### Python
 
-(![Python](https://github.com/BuffePOK/Kaggle/raw/main/Python/Lord0fDarkness%20-%20Python.png)
+![Python](https://github.com/BuffePOK/Kaggle/raw/main/Python/Lord0fDarkness%20-%20Python.png)
 
 ---
 
