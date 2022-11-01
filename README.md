@@ -1,6 +1,6 @@
 # Kaggle
 
-### Certificates
+### Certificates (3 pieces)
 
 ---
 
@@ -16,3 +16,10 @@
 )
 
 ---
+
+### Python
+
+(![Python](https://github.com/BuffePOK/Kaggle/raw/main/Python/Lord0fDarkness%20-%20Python.png)
+
+---
+
